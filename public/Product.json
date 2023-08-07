@@ -1,0 +1,135 @@
+[
+    {
+      "_id": "64c570b306b9026085cb9705",
+      "balance": "$1,444.72",
+      "picture": "https://i.pinimg.com/564x/b3/78/7a/b3787acab53ff86528de9abd1f3c8d75.jpg",
+      "age": 26,
+      "eyeColor": "green",
+      "name": "Guadalupe Hart",
+      "friends": [
+        {
+          "name": "Dollie Fuentes"
+        },
+        {
+          "name": "Lindsay Potts"
+        },
+        {
+          "name": "Moreno Thornton"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b3c15dd8a11b6bcd1a",
+      "balance": "$2,475.29",
+      "picture": "https://i.pinimg.com/564x/b3/78/7a/b3787acab53ff86528de9abd1f3c8d75.jpg",
+      "age": 36,
+      "eyeColor": "brown",
+      "name": "Vargas Nicholson",
+      "friends": [
+        {
+          "name": "Cole Gilbert"
+        },
+        {
+          "name": "Kemp Brewer"
+        },
+        {
+          "name": "Michael Cooley"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b36ee747a334ee6171",
+      "balance": "$1,758.82",
+      "picture": "https://i.pinimg.com/736x/65/b7/d5/65b7d5e3ead835f255473d8ed085c49f.jpg",
+      "age": 35,
+      "eyeColor": "brown",
+      "name": "Cathleen Grant",
+      "friends": [
+        {
+          "name": "Whitehead Carroll"
+        },
+        {
+          "name": "Kathie Hernandez"
+        },
+        {
+          "name": "Swanson Hopper"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b3af01a104d05c423c",
+      "balance": "$1,458.68",
+      "picture": "https://i.pinimg.com/736x/a8/79/94/a87994a3361b90ab0c4aae0477b12486.jpg",
+      "age": 39,
+      "eyeColor": "brown",
+      "name": "Medina Hudson",
+      "friends": [
+        {
+          "name": "Keri Robertson"
+        },
+        {
+          "name": "Wynn Glass"
+        },
+        {
+          "name": "Mullen Avery"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b39d1a5322daf9bbd3",
+      "balance": "$3,623.25",
+      "picture": "https://i.pinimg.com/736x/ee/fa/a5/eefaa5ed364ae15eb848c3f546c73bb2.jpg",
+      "age": 33,
+      "eyeColor": "green",
+      "name": "Evangeline Mcpherson",
+      "friends": [
+        {
+          "name": "Jeannette Mcdonald"
+        },
+        {
+          "name": "Juliana Beasley"
+        },
+        {
+          "name": "Ellen Hatfield"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b3682d187877230201",
+      "balance": "$2,295.36",
+      "picture": "https://i.pinimg.com/564x/2a/e1/8d/2ae18d6e9bd1328b28c506a6c53b4295.jpg",
+      "age": 26,
+      "eyeColor": "green",
+      "name": "Juana Morales",
+      "friends": [
+        {
+          "name": "Fields Barrera"
+        },
+        {
+          "name": "Lolita Howard"
+        },
+        {
+          "name": "Sampson Carlson"
+        }
+      ]
+    },
+    {
+      "_id": "64c570b36114b17690a17e32",
+      "balance": "$3,971.18",
+      "picture": "https://i.pinimg.com/736x/7e/29/23/7e292374c4294a92b077983559036e1f.jpg",
+      "age": 25,
+      "eyeColor": "blue",
+      "name": "Michelle Finch",
+      "friends": [
+        {
+          "name": "Rich Clayton"
+        },
+        {
+          "name": "Jimenez Carpenter"
+        },
+        {
+          "name": "Jerri Gonzales"
+        }
+      ]
+    }
+  ]
