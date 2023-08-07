@@ -6,7 +6,7 @@ const ProductCards = ({product}) => {
     const{picture,balance,name, quantity} = product 
     const dispatch = useDispatch()
     return (
-        <div className="card card-compact w-96 bg-base-100 shadow-xl">
+        <div className="card card-compact w-full bg-base-100 shadow-xl">
            <img src={picture} alt="" />
             <div className="card-body">
                 <h2 className="card-title">{name}</h2>

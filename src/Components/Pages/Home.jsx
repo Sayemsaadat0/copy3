@@ -14,6 +14,7 @@ const Home = () => {
     },[])
     return (
         <Container>
+            <h1 className='text-center'>Sk Shariful Islam</h1>
             <div className='mx-10 gap-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
                 {
                     products.map((product,index)=><ProductCards product={product} key={index}></ProductCards>)
